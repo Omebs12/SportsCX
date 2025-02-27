@@ -1,24 +1,6 @@
-"{""name"":""Eleven Sports 1"",
-""image"":""""https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg"""",
-""url"":""http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b"",
-""embed"":""true""}"
-"{""name"":""Eleven Sports 2"",
-""image"":""""https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_2.jpg"""",
-""url"":""http://127.0.0.1:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce"",
-""embed"":""true""}"
-"{""name"":""Eleven Sports 3"",
-""image"":""""https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg"""",
-""url"":""http://127.0.0.1:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e"",
-""embed"":""true""}"
-"{""name"":""Eleven Sports 4"",
-""image"":""""https://s1.vcdn.biz/static/f/5452506631/image.jpg"""",
-""url"":""http://127.0.0.1:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98"",
-""embed"":""true""}"
-"{""name"":""Eleven Sports 5"",
-""image"":""""https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png"""",
-""url"":""http://127.0.0.1:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a"",
-""embed"":""true""}"
-"{""name"":""Eleven Sports 6"",
-""image"":""""https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpeobtW6p6QBsv4bqV8XFgnQKkRhFqU_C5hrXPLvySJHwxAhLoXujTIKuoiV0DQy6FBQe4WRlGLUlLZsMa4QCx2SLBCsNmTFrZe7a6ND1NM4JhWtFYEhq4KFVGJTEiH3tpsCqxEHh9vqGcRU1qy-8qrt1harNG6OhGXVywOnRPW7mUfjywK2c80QGho02a/w581-h225/logo-ElevenSports.png"""",
-""url"":""http://127.0.0.1:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80"",
-""embed"":""true""}"
+{
+"name": "Eleven Sports 1",
+"image": "https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_1.jpg",
+"url": "http://127.0.0.1:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b",
+"embed"": "true"
+},
